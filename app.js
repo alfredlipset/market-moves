@@ -10,7 +10,7 @@ function render() {
   for (const item of results) {
     const card = element('article','card'), thumb = element('div','thumb');
     if (item.image) { const img = element('img'); img.src = item.image; img.alt = item.title + ' preview'; img.loading = 'lazy'; thumb.append(img); }
-    else { thumb.classList.add('stream-thumb'); thumb.append(element('div','','Wednesday\nAfter Hours'),element('span','','MARKET MOVES · REPLAY')); }
+    else { thumb.classList.add('stream-thumb'); thumb.append(element('div','',item.thumbnailTitle || item.title),element('span','','MARKET MOVES · REPLAY')); }
     const body = element('div','card-body'), meta = element('div','meta'); meta.append(element('span','',item.label));
     if (item.date) { const date = element('time','',new Date(item.date+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})); date.dateTime = item.date; meta.append(date); }
     body.append(meta,element('h3','',item.title),element('p','',item.description),element('p','note',item.note));

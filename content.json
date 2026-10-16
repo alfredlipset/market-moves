@@ -3,7 +3,7 @@
     "type": "Streams",
     "title": "Wednesday After Hours",
     "date": "",
-    "label": "AFTER HOURS \u00b7 REPLAY",
+    "label": "AFTER HOURS · REPLAY",
     "description": "The Wednesday Market Moves stream, hosted by Max Lipset. Watch the recording on Zoom.",
     "note": "Zoom may require a passcode or sign-in.",
     "links": [
@@ -13,6 +13,22 @@
       ]
     ],
     "image": ""
+  },
+  {
+    "type": "Streams",
+    "title": "October 7 — ETFs & covered calls",
+    "date": "2026-10-07",
+    "label": "MARKET MOVES · REPLAY",
+    "description": "Market conditions, ETF analysis, and options strategies, including covered calls and buy-writes. Hosted by Max Lipset.",
+    "note": "1 hr 42 min · Topics based on Zoom’s recording summary. Zoom may require a passcode or sign-in.",
+    "links": [
+      [
+        "Watch on Zoom",
+        "https://us06web.zoom.us/rec/share/0_lOH8u3MB7s0-k9XUNrInQ6XBFA5cNiThm5ZJze2V7tg13PyWRiuIc1aLLgN9YD.g2dK6Zk-W7f7idFz"
+      ]
+    ],
+    "image": "",
+    "thumbnailTitle": "October 7\nETFs & covered calls"
   },
   {
     "type": "Decks",
@@ -69,7 +85,7 @@
   },
   {
     "type": "Charts",
-    "title": "What\u2019s inside the indexes?",
+    "title": "What’s inside the indexes?",
     "date": "2026-10-14",
     "label": "INDEX COMPOSITION",
     "description": "A side-by-side look at sector exposure in SPY, QQQ, DIA, and IWM.",
