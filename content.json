@@ -1,6 +1,22 @@
 [
   {
     "type": "Streams",
+    "title": "October 16 — Market Moves",
+    "date": "2026-10-16",
+    "label": "FRIDAY STREAM · REPLAY",
+    "description": "Watch the October 16 Market Moves session hosted by Max Lipset.",
+    "note": "59 min · Zoom may require a passcode or sign-in.",
+    "links": [
+      [
+        "Watch on Zoom",
+        "https://us06web.zoom.us/rec/share/WgB2FPwsOuxpAaUUNVCAMh9eOy1E6PpTprQ4P8-lRcKSvma7TCepbFwh81Dv9pmc.-m9pphivd4daMCwj"
+      ]
+    ],
+    "image": "",
+    "thumbnailTitle": "October 16\nMarket Moves"
+  },
+  {
+    "type": "Streams",
     "title": "October 14 — Wednesday After Hours",
     "date": "2026-10-14",
     "label": "AFTER HOURS · REPLAY",
