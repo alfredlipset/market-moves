@@ -6,3 +6,15 @@
 
 /* Community tradebook and dated screening tables */
 .tracker-jumps{display:flex;flex-wrap:wrap;gap:15px;padding:25px 0;border-bottom:1px solid var(--line)}.tracker-jumps a{font-size:14px;font-weight:700;text-underline-offset:5px}.tracker-section{padding-top:55px;padding-bottom:25px;min-width:0}.tracker-intro{max-width:920px;color:var(--muted);font-size:14px;line-height:1.8}.tracker-toolbar{display:flex;flex-wrap:wrap;gap:18px;margin:24px 0 12px}.tracker-toolbar label{display:flex;flex-direction:column;gap:6px;font-size:12px;font-weight:700}.tracker-toolbar input,.tracker-toolbar select{font:inherit;font-size:14px;border:1px solid #bdcbb7;border-radius:5px;background:white;padding:10px 12px;color:var(--ink);max-width:100%}.table-scroll{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:white;max-width:100%}.table-scroll:focus-visible,select:focus-visible{outline:3px solid #9ab955;outline-offset:3px}.table-scroll table{border-collapse:collapse;width:100%;min-width:930px;font-size:13px;line-height:1.6;text-align:left}.table-scroll caption{text-align:left;padding:14px 18px;background:#eef3e7;font-size:12px;color:var(--muted)}.table-scroll th{background:#173a32;color:#f4f7ee;padding:14px 16px;font-size:11px;letter-spacing:.4px}.table-scroll td{padding:18px 16px;vertical-align:top;border-top:1px solid var(--line)}.table-scroll tbody tr:nth-child(even){background:#f8faf4}.table-scroll td:first-child{min-width:155px}.table-scroll td:last-child{min-width:250px;max-width:390px}.cell-detail{display:block;color:var(--muted);font-size:12px;margin-top:6px}.table-scroll td a{font-weight:700;text-underline-offset:3px}.table-scroll td div a{display:block;margin-top:8px;font-size:12px}.status-pill{display:inline-block;background:#e3efd7;padding:3px 7px;border-radius:4px;font-size:11px;font-weight:700;white-space:nowrap}.status-pill.review{background:#fff0ce;color:#73541c}.tracker-footnote{font-size:12px;color:var(--muted);max-width:950px;line-height:1.8}.topbar nav{gap:20px}@media(max-width:600px){.tracker-section{padding-top:35px}.tracker-toolbar{flex-direction:column}.tracker-toolbar label{width:100%}.tracker-jumps{gap:12px;font-size:12px}.tracker-jumps a{font-size:12px}.table-scroll table{min-width:850px}}
+
+/* Bottom-of-page research dropdowns */
+.tracker-dropdown{border:1px solid #c6d3cb;border-radius:12px;background:#fff;overflow:hidden}
+.tracker-dropdown>summary{position:relative;cursor:pointer;list-style:none;padding:24px 64px 24px 24px}
+.tracker-dropdown>summary::-webkit-details-marker{display:none}
+.tracker-dropdown>summary h2{margin:0;font-size:clamp(1.5rem,4vw,2.2rem)}
+.tracker-dropdown>summary .eyebrow{margin:0 0 8px}
+.dropdown-icon{position:absolute;right:24px;top:50%;transform:translateY(-50%);font-size:2rem}
+.tracker-dropdown[open]>summary .dropdown-icon{transform:translateY(-50%) rotate(45deg)}
+.tracker-dropdown>summary:focus-visible{outline:3px solid #267d6c;outline-offset:-4px}
+.tracker-content{padding:0 24px 24px}
+@media(max-width:600px){.tracker-dropdown>summary{padding:20px 52px 20px 16px}.tracker-content{padding:0 16px 20px}.dropdown-icon{right:16px}}

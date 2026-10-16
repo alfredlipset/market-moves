@@ -1,5 +1,16 @@
 'use strict';
 (() => {
+  function revealTracker() {
+    const id=location.hash.slice(1);
+    if(!['open-trades','chaikin'].includes(id))return;
+    const section=document.getElementById(id);
+    section.querySelector('details').open=true;
+  }
+  window.addEventListener('hashchange',revealTracker);
+  document.querySelectorAll('a[href="#open-trades"],a[href="#chaikin"]').forEach(a=>a.addEventListener('click',()=>{
+    document.querySelector(a.getAttribute('href')+' details').open=true;
+  }));
+  revealTracker();
   const node = (tag, text, cls) => {const n = document.createElement(tag); if(text) n.textContent = text; if(cls) n.className = cls; return n;};
   const link = (label, url) => {const a=node('a',label); a.href=url; if(url.startsWith('https://')) {a.target='_blank';a.rel='noopener noreferrer';} return a;};
   const cell = (row, ...children) => {const td=node('td'); td.append(...children); row.append(td);};
