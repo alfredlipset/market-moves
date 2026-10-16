@@ -4,16 +4,342 @@
     "title": "October 16 — Market Moves",
     "date": "2026-10-16",
     "label": "FRIDAY STREAM · REPLAY",
-    "description": "Watch the October 16 Market Moves session hosted by Max Lipset.",
-    "note": "59 min · Zoom may require a passcode or sign-in.",
+    "description": "DFEN calls, GGLL and ARKG setups, MCD and IREN management, semiconductor pullback levels, and bullish/optimal signal reviews.",
+    "note": "59 min · Transcript-based ticker notes and 3 verified shared OptionStrat models.",
     "links": [
       [
         "Watch on Zoom",
         "https://us06web.zoom.us/rec/share/WgB2FPwsOuxpAaUUNVCAMh9eOy1E6PpTprQ4P8-lRcKSvma7TCepbFwh81Dv9pmc.-m9pphivd4daMCwj"
+      ],
+      [
+        "Ticker notes",
+        "streams/2026-10-16.html"
       ]
     ],
     "image": "",
-    "thumbnailTitle": "October 16\nMarket Moves"
+    "thumbnailTitle": "October 16\nMarket Moves",
+    "tickers": [
+      {
+        "ticker": "DFEN",
+        "time": "06:28 / 27:40",
+        "status": "Held long call",
+        "price": "$5.64 premium ($564 per contract); $47 underlying support discussed.",
+        "position": "Max reported entering and continuing to hold a Jan 15, 2027 $50 call. Expiry/strike confirmed in the shared model on Oct 16. Defense-sector rebound thesis; total held quantity not specified.",
+        "links": [
+          [
+            "Saved OptionStrat model",
+            "https://optionstrat.com/Qh2hWRxEeMxJ"
+          ]
+        ]
+      },
+      {
+        "ticker": "GGLL",
+        "time": "17:47 / 35:08",
+        "status": "Viewer position / potential entry",
+        "price": "Viewer entry $21.30 premium; community entries discussed at $22 and $21.",
+        "position": "Jan 21, 2028 $130 calls, verified in shared model. Max modeled three contracts and liked staged adds using thirds, while noting low open interest, leverage and possible further downside. He was considering entering, not reporting a completed personal fill.",
+        "links": [
+          [
+            "Saved OptionStrat model",
+            "https://optionstrat.com/fxNlh4mNPFnk"
+          ]
+        ]
+      },
+      {
+        "ticker": "ARKG",
+        "time": "20:50 / 47:07",
+        "status": "Profits taken / re-entry watch",
+        "price": "Original spoken premium $10.22; now below initial entry; prior partial-profit milestone +50%.",
+        "position": "Jan 21, 2028 $50 calls verified in the shared model. Max reported realized profits and renewed entry interest. Model checked Oct 16 showed nine contracts and $9,522 debit ($10.58/share), differing from the spoken initial cost; model is not a current holdings ledger.",
+        "links": [
+          [
+            "Saved OptionStrat model",
+            "https://optionstrat.com/tWRryFVy8L5R"
+          ]
+        ]
+      },
+      {
+        "ticker": "MCD",
+        "time": "12:18",
+        "status": "Added previously / possible exit",
+        "price": "Three added contracts at $580 each; blended premium spoken as about $12.77. Captioned breakeven number is unclear.",
+        "position": "Max said he added after the prior Friday call to lower cost. Still uncertain about holding; considered an exit near the daily 50-day moving average on a rebound. No exit confirmed; strike and expiry not restated clearly.",
+        "links": []
+      },
+      {
+        "ticker": "IREN",
+        "time": "44:02",
+        "status": "Held / no add yet",
+        "price": "$65 call strike; no reliable entry premium stated.",
+        "position": "Max reported 24 call LEAPS; Sep 17, 2027 expiry was referenced at the start of the discussion. In the penalty box: no add yet, watching for an optimal timing signal before considering more. Data-center concerns and remaining time were central risks.",
+        "links": []
+      },
+      {
+        "ticker": "SOXL",
+        "time": "03:09 / 10:13",
+        "status": "Pullback / ownership zones",
+        "price": "Below $100 early in stream; $95–115 and revised $90–105 zones discussed.",
+        "position": "Bullish longer-term semiconductor-demand thesis despite selloff. Ownership/entry scenarios, not a newly reported fill or guaranteed floor.",
+        "links": []
+      },
+      {
+        "ticker": "TQQQ",
+        "time": "10:44 / 29:38",
+        "status": "Assignment / patient averaging",
+        "price": "$60 or below preferred; $65 gap area discussed. $56–59 cited while reviewing a prior pullback, not a guaranteed current bottom.",
+        "position": "Max favored patience and lower average cost. Anonymous viewer described an Oct 30 $65 short put at about $2 premium and covered calls after assignment/rebound. Those contract terms were the viewer’s, not Max’s new trade.",
+        "links": []
+      },
+      {
+        "ticker": "QQQ",
+        "time": "10:53 / 38:39 / 59:16",
+        "status": "Index downside scenarios",
+        "price": "$685 broader downside target; around $713 during discussion; $710 then $700 near-term levels.",
+        "position": "Potential further weakness into the midterms; earnings and policy clarity could change direction. No new QQQ fill confirmed.",
+        "links": []
+      },
+      {
+        "ticker": "NDX",
+        "time": "11:06 / 58:53",
+        "status": "Market outlook",
+        "price": "28,000 downside scenario.",
+        "position": "Discussed continued Nasdaq weakness and possible opportunities for bearish positioning; no exact contract or personal fill stated.",
+        "links": []
+      },
+      {
+        "ticker": "GOOG / GOOGL",
+        "time": "21:13 / 35:08",
+        "status": "Bullish valuation / GGLL thesis",
+        "price": "$400 psychological area; historical $387 and later $408 chart references, not current entry quotes.",
+        "position": "Liked Google valuation and potential staged additions through GGLL, with a possible pullback to the 200-day moving average. Share class not specified in spoken discussion.",
+        "links": []
+      },
+      {
+        "ticker": "ETN",
+        "time": "11:44",
+        "status": "Entry watch",
+        "price": "Around $400, the previously identified entry area.",
+        "position": "Eaton was back at the level Max wanted to investigate. No completed new trade or contract specified.",
+        "links": []
+      },
+      {
+        "ticker": "RAM / DRAM",
+        "time": "10:28 / 25:52",
+        "status": "Memory exposure / LEAPS idea",
+        "price": "No exact premium or strike stated.",
+        "position": "RAM and DRAM were named during discussion of discounted memory exposure. A DRAM LEAPS idea was explored, but the transcript does not establish exact fund identity or contract terms for every reference; no new fill confirmed.",
+        "links": []
+      },
+      {
+        "ticker": "MU",
+        "time": "10:28 / 25:41",
+        "status": "Bullish memory thesis",
+        "price": "No exact entry quote stated.",
+        "position": "Micron weakness viewed as a possible opportunity. Max discussed competition concerns as his interpretation of the selloff, not an independently verified explanation. No separate new MU fill.",
+        "links": []
+      },
+      {
+        "ticker": "SNDK",
+        "time": "10:28 / 25:52",
+        "status": "Memory watchlist",
+        "price": "No exact entry quote stated.",
+        "position": "SanDisk included in discounted memory-sector discussion; no strike, expiry or new trade confirmed.",
+        "links": []
+      },
+      {
+        "ticker": "SK hynix",
+        "time": "10:28",
+        "status": "Context / memory exposure",
+        "price": "Not specified.",
+        "position": "Named among memory companies showing discounts. Listing and ticker were not specified; no direct trade discussed.",
+        "links": []
+      },
+      {
+        "ticker": "ASML",
+        "time": "11:13",
+        "status": "Discount watchlist",
+        "price": "Not specified.",
+        "position": "Briefly flagged as showing a discount; no new contract or fill described.",
+        "links": []
+      },
+      {
+        "ticker": "WDC",
+        "time": "11:13",
+        "status": "Watchlist",
+        "price": "Not specified.",
+        "position": "Western Digital named as something to review, without a completed setup.",
+        "links": []
+      },
+      {
+        "ticker": "AA",
+        "time": "02:48",
+        "status": "Prior watch / strength",
+        "price": "Alcoa was described as up about 10% that morning.",
+        "position": "Metal-sector strength and a name watched previously. Not a new entry recommendation or confirmed trade.",
+        "links": []
+      },
+      {
+        "ticker": "RTX",
+        "time": "06:00",
+        "status": "Context / missed move",
+        "price": "Not specified.",
+        "position": "Raytheon discussed as a strong recent mega-cap-screen candidate. A viewer had watched rather than entered; Max discussed DFEN as his related sector exposure.",
+        "links": []
+      },
+      {
+        "ticker": "DELL",
+        "time": "20:07",
+        "status": "Research candidate",
+        "price": "Not specified.",
+        "position": "Suggested checking Dell against the mega-cap framework. No entry or contract proposed.",
+        "links": []
+      },
+      {
+        "ticker": "MS",
+        "time": "23:51",
+        "status": "Screening context",
+        "price": "Not specified.",
+        "position": "Morgan Stanley checked against the trillion-dollar market-cap criterion; no trade recommended.",
+        "links": []
+      },
+      {
+        "ticker": "ORCL",
+        "time": "24:10",
+        "status": "Screening context",
+        "price": "Not specified.",
+        "position": "Oracle mentioned while questioning a strict trillion-dollar market-cap cutoff; no entry specified.",
+        "links": []
+      },
+      {
+        "ticker": "CAT",
+        "time": "25:06",
+        "status": "Bullish research thesis",
+        "price": "Not specified.",
+        "position": "Caterpillar viewed as affected by AI and rate headwinds that Max thought could be temporary. No new position or exact setup.",
+        "links": []
+      },
+      {
+        "ticker": "NVDA",
+        "time": "26:20",
+        "status": "Comparison only",
+        "price": "Not specified.",
+        "position": "NVIDIA used as a Chaikin-rating comparison to Micron; not a new trade call.",
+        "links": []
+      },
+      {
+        "ticker": "FROG",
+        "time": "36:16",
+        "status": "Prior successful trade / research",
+        "price": "Not specified.",
+        "position": "JFrog mentioned as a name played successfully about a year earlier and appearing in a current recommendation article. No new fill.",
+        "links": []
+      },
+      {
+        "ticker": "MSFT",
+        "time": "36:52",
+        "status": "Viewer holding",
+        "price": "Not specified.",
+        "position": "Anonymous viewer said Microsoft shares were doing well and planned to keep holding. Not Max’s trade instruction.",
+        "links": []
+      },
+      {
+        "ticker": "Hewlett Packard (listing unspecified)",
+        "time": "37:03",
+        "status": "Research interest",
+        "price": "Not specified.",
+        "position": "Briefly described as interesting and not previously traded by Max. Transcript does not distinguish HPQ from HPE.",
+        "links": []
+      },
+      {
+        "ticker": "HUBS",
+        "time": "37:03 / 48:41",
+        "status": "Closed short-term calls / retrospective",
+        "price": "Underlying about $200 at signal, then about $250 that week.",
+        "position": "Max reported taking profits and exiting shorter-term HubSpot calls. Bullish/optimal timing cited as a successful example; exact legs and realized return unspecified.",
+        "links": []
+      },
+      {
+        "ticker": "NTNX",
+        "time": "37:28",
+        "status": "Prior-position check",
+        "price": "Not specified.",
+        "position": "Asked whether anyone was still in Nutanix; no new recommendation or personal holding confirmed.",
+        "links": []
+      },
+      {
+        "ticker": "VIX",
+        "time": "38:03",
+        "status": "Volatility context",
+        "price": "Around 22.",
+        "position": "Volatility observation during the market selloff, not a new options trade.",
+        "links": []
+      },
+      {
+        "ticker": "ABBV",
+        "time": "39:33",
+        "status": "Retrospective / uncertain earlier exit",
+        "price": "A prior option play was described as now up about 300%, not the stock return or a realized gain.",
+        "position": "Max questioned whether the earlier play had been exited at a loss or breakeven. Exit history and contract details were not confirmed.",
+        "links": []
+      },
+      {
+        "ticker": "“SpaceX” (caption label; ticker unverified)",
+        "time": "39:47",
+        "status": "Hypothetical bearish-position management",
+        "price": "Underlying downside area about $118; example premium $14.68 averaged with $10 to $12.34; possible profit area about $134.",
+        "position": "Captions repeatedly say SpaceX, but the instrument and contract are not verified. Max explicitly said he was not in this position. Doubling was a modeled management scenario, not a reported fill; do not infer a tradable ticker from the caption.",
+        "links": []
+      },
+      {
+        "ticker": "AMAT",
+        "time": "47:01",
+        "status": "Brief bullish mention",
+        "price": "Not specified.",
+        "position": "Max said he liked Applied Materials, while noting it was fine not to call a new trade during the selloff. No contract or fill specified.",
+        "links": []
+      },
+      {
+        "ticker": "IT",
+        "time": "49:04",
+        "status": "Exited / retrospective",
+        "price": "Gartner underlying roughly $190 to $207–208; reviewed option history roughly $13 to $22.",
+        "position": "Max reported exiting early for about 10–15% profit amid market concerns. The larger later option move was a missed hypothetical outcome, not his realized return. Exact contract terms not stated.",
+        "links": []
+      },
+      {
+        "ticker": "BAH",
+        "time": "51:53",
+        "status": "Signal watch",
+        "price": "Not specified.",
+        "position": "Booz Allen Hamilton cited as another prior-Friday bullish/optimal signal; no completed trade or contract stated.",
+        "links": []
+      },
+      {
+        "ticker": "IWM",
+        "time": "53:06 / 58:31",
+        "status": "No entry / awaiting conviction",
+        "price": "Eventual $300 scenario discussed, not a near-term target with timing.",
+        "position": "Not bullish enough to enter until rate clarity improves. Early caption says IWN, but the closing discussion explicitly repeats IWM.",
+        "links": []
+      },
+      {
+        "ticker": "Gold / crypto",
+        "time": "53:37",
+        "status": "Speculative macro thesis",
+        "price": "Gold described as below the 200-day moving average; no exact entry quote.",
+        "position": "Speculated about gold-backed financing and crypto adoption as possible catalysts. Timing explicitly uncertain; no specific crypto asset or new Max trade established.",
+        "links": []
+      },
+      {
+        "ticker": "GDXJ",
+        "time": "57:47",
+        "status": "Junior-miner watch",
+        "price": "No exact quote stated.",
+        "position": "After briefly asking whether GLD was the junior-miner ticker, Max identified GDXJ and observed miner weakness. No new entry confirmed.",
+        "links": []
+      }
+    ],
+    "tickerNote": "Historical Oct 16, 2026 stream recap from captions and shared chat links, not live quotes or a current holdings ledger. Prices are USD; option premiums are per share unless stated (usually ×100 per contract). Timestamps are replay positions. Model terms checked Oct 16; saved models may change and current P&L is not stream-time performance. Covers spoken discussion, not every silent onscreen ticker. Unclear symbols/numbers remain labeled; no matching saved link was recovered for entries without one."
   },
   {
     "type": "Streams",
