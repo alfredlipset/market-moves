@@ -47,6 +47,38 @@
     "thumbnailTitle": "October 7\nETFs & covered calls"
   },
   {
+    "type": "Streams",
+    "title": "October 2 — Market Moves",
+    "date": "2026-10-02",
+    "label": "MARKET MOVES · REPLAY",
+    "description": "Watch the October 2 Market Moves session hosted by Max Lipset.",
+    "note": "Zoom may require a passcode or sign-in.",
+    "links": [
+      [
+        "Watch on Zoom",
+        "https://us06web.zoom.us/rec/share/7brf4Urjz_VnGrp21Kx2MPwgf_pEsXSjvb1kKfLslhLDijapSarlEodUvSA5mnOY.jVnLfUzpjCgAaSSH"
+      ]
+    ],
+    "image": "",
+    "thumbnailTitle": "October 2\nMarket Moves"
+  },
+  {
+    "type": "Streams",
+    "title": "September 30 — Market Moves",
+    "date": "2026-09-30",
+    "label": "MARKET MOVES · REPLAY",
+    "description": "Watch the September 30 Market Moves session hosted by Max Lipset.",
+    "note": "Zoom may require a passcode or sign-in.",
+    "links": [
+      [
+        "Watch on Zoom",
+        "https://us06web.zoom.us/rec/share/R3jB5UM5G-DksHii7t1mZubaKdbZXyWm0881P0AZd6m9NMFR1ZyZ54Pl0_1Iq0Em.AOStVzs66MkKUvwi"
+      ]
+    ],
+    "image": "",
+    "thumbnailTitle": "September 30\nMarket Moves"
+  },
+  {
     "type": "Decks",
     "title": "The market in perspective",
     "date": "2026-10-14",
