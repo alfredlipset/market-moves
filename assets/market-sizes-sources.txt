@@ -1,0 +1,38 @@
+MARKET MOVES — MARKET SIZES — retrieved October 14, 2026
+These are latest available snapshots, NOT synchronized closing valuations. Market quotes can be delayed. Physical quantities and bond totals lag; they are not certified October 14 stock counts. No grand total: categories overlap and measure different things.
+
+SPY / QQQ mean underlying company capitalization, not fund assets. Slickcharts snapshots: 70.015T and 42.361T. Full capitalization, not index float-adjusted weighting.
+https://www.slickcharts.com/sp500/marketcap
+https://www.slickcharts.com/nasdaq100/marketcap
+
+Crypto snapshot: BTC $1,637,903,743,705; ETH $295,013,000,720; total $2.844T. Circulating supply, not fully diluted value. Retrieved October 14; continuous trading and differing vendor snapshots cause differences.
+https://www.coingecko.com/
+
+Gold: latest WGC above-ground estimate 222,600 metric tonnes (end-Q2 2026) × 32,150.7465686 troy oz/tonne × current CMC gold price $4,128/oz. Does not project Q3/Q4 production. CMC's own displayed gold capitalization uses older tonnage, so it is NOT used here.
+https://www.gold.org/goldhub/data/how-much-gold
+https://companiesmarketcap.com/gold/marketcap/
+
+Silver: CMC $3.142T. Uses 1,751,000 tonnes historically mined (2019 estimate) × current price about $55.82/oz; includes metal subsequently lost/consumed. Not available investment inventory or a current stock count.
+https://companiesmarketcap.com/silver/marketcap/
+
+Copper: illustrative historical-output valuation, NOT a recognized market cap. USGS undated FAQ: roughly 700 million tonnes ever produced × October 14 quote $14,788.46/tonne. The quantity is an old, rounded cumulative estimate, not verified current inventory; includes consumed/lost metal. Used for scale only.
+https://www.usgs.gov/faqs/how-much-copper-has-been-found-world?page=0
+https://metalcharts.org/lme-copper-price
+
+Precious metals proxy = gold calculation + silver $3.142T + platinum $0.40170T + palladium (175 million historical ounces × October 14 spot $1,094.50/oz). Excludes rhodium and other minor PGMs, so not an exhaustive all-metals total. Platinum and palladium quantities are 2020 historical-output estimates; consumed/lost material not deducted. Copper is an industrial metal and excluded.
+https://companiesmarketcap.com/platinum/marketcap/
+https://companiesmarketcap.com/palladium/marketcap/
+https://www.reuters.com/world/india/gold-prices-hold-firm-ahead-us-inflation-data-2026-10-14/
+
+Bonds: global fixed income debt outstanding $160.7T, end-2025, latest annual SIFMA 2026 Fact Book. Face/outstanding amount, not a same-day mark-to-market valuation.
+https://www.sifma.org/research/reports/fact-book
+
+Oil: user requested reserve value. 1,572.459 billion barrels, year-end 2025 proven crude reserves from OPEC ASB 2026, × October 14 Brent futures settlement $106.06/bbl. Gross notional value, not net present value: no extraction costs, taxes, discounting, quality adjustments or production/depletion adjustment. Not readily saleable inventory.
+https://www.opec.org/pr-detail/1784601-29-april-2026.html
+https://baratelliinstitute.com/oil
+https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/
+
+Energy alternatives: CMC renewable category, 142 companies, $876.26B. A proxy, not all alternative energy assets; includes diversified businesses, not pure renewable revenue.
+https://companiesmarketcap.com/renewable-energy/largest-companies-by-market-cap/
+Total energy: CMC energy category, 802 tracked public companies, $13.082T. Not all private/state-owned businesses. Not oil reserve value plus renewables. Overlaps renewable category and equity indexes.
+https://companiesmarketcap.com/energy/largest-companies-by-market-cap/

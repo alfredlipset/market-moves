@@ -1,0 +1,85 @@
+[
+  {
+    "type": "Streams",
+    "title": "Wednesday After Hours",
+    "date": "",
+    "label": "AFTER HOURS \u00b7 REPLAY",
+    "description": "The Wednesday Market Moves stream, hosted by Max Lipset. Watch the recording on Zoom.",
+    "note": "Zoom may require a passcode or sign-in.",
+    "links": [
+      [
+        "Watch on Zoom",
+        "https://us06web.zoom.us/rec/play/azd4gLlzpWECMYC80yZohoWZVXo0TyWZNU_tY4B3mo50wYjDlJNZmIzZEacOL41-qEgLrrD0C0mfPNoo.ENxpaDLJpgLdhvSk"
+      ]
+    ],
+    "image": ""
+  },
+  {
+    "type": "Decks",
+    "title": "The market in perspective",
+    "date": "2026-10-14",
+    "label": "MARKET DASHBOARD",
+    "description": "Key assets, sector performance, and the sector mix of major equity indexes in one presentation.",
+    "note": "Dated snapshot. ETF returns through October 14; Bitcoin through October 13 UTC.",
+    "links": [
+      [
+        "Download deck",
+        "assets/performance-deck.pptx"
+      ]
+    ],
+    "image": "assets/performance.png"
+  },
+  {
+    "type": "Research",
+    "title": "How big are the markets?",
+    "date": "2026-10-14",
+    "label": "BIG PICTURE",
+    "description": "Compare the scale of equities, crypto, physical metals, bonds, oil reserves, and energy companies.",
+    "note": "Different valuation methods and source dates. Categories overlap; see methodology.",
+    "links": [
+      [
+        "Read PDF",
+        "assets/market-sizes.pdf"
+      ],
+      [
+        "Slides",
+        "assets/market-sizes.pptx"
+      ],
+      [
+        "Sources",
+        "assets/market-sizes-sources.txt"
+      ]
+    ],
+    "image": "assets/market-sizes.png"
+  },
+  {
+    "type": "Charts",
+    "title": "Sector leadership",
+    "date": "2026-10-14",
+    "label": "SECTOR ROTATION",
+    "description": "Compare year-to-date, October month-to-date, and September returns across equity sectors.",
+    "note": "Historical performance through October 14, 2026; not live quotes.",
+    "links": [
+      [
+        "Open chart",
+        "assets/sectors.png"
+      ]
+    ],
+    "image": "assets/sectors.png"
+  },
+  {
+    "type": "Charts",
+    "title": "What\u2019s inside the indexes?",
+    "date": "2026-10-14",
+    "label": "INDEX COMPOSITION",
+    "description": "A side-by-side look at sector exposure in SPY, QQQ, DIA, and IWM.",
+    "note": "Issuer snapshots as of October 13 where available; QQQ retrieved October 14, holdings date undisclosed.",
+    "links": [
+      [
+        "Open chart",
+        "assets/weights.png"
+      ]
+    ],
+    "image": "assets/weights.png"
+  }
+]
