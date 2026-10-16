@@ -1,18 +1,258 @@
 [
   {
     "type": "Streams",
-    "title": "Wednesday After Hours",
-    "date": "",
+    "title": "October 14 — Wednesday After Hours",
+    "date": "2026-10-14",
     "label": "AFTER HOURS · REPLAY",
-    "description": "The Wednesday Market Moves stream, hosted by Max Lipset. Watch the recording on Zoom.",
-    "note": "Zoom may require a passcode or sign-in.",
+    "description": "Wheel strategy, SOXL assignment and covered calls, RAM memory exposure, and the pre-election market outlook.",
+    "note": "1 hr 57 min · Transcript-based ticker notes below. No OptionStrat link was present in the replay chat.",
     "links": [
       [
         "Watch on Zoom",
         "https://us06web.zoom.us/rec/play/azd4gLlzpWECMYC80yZohoWZVXo0TyWZNU_tY4B3mo50wYjDlJNZmIzZEacOL41-qEgLrrD0C0mfPNoo.ENxpaDLJpgLdhvSk"
+      ],
+      [
+        "Ticker notes",
+        "streams/2026-10-14.html"
       ]
     ],
-    "image": ""
+    "image": "",
+    "tickers": [
+      {
+        "ticker": "SOXL",
+        "time": "26:55",
+        "status": "Active CSPs / wheel planning",
+        "price": "About $105–110; preferred ownership roughly $95–115.",
+        "position": "Max reported $135 CSPs and adding contracts as premiums rose. An anonymous Oct 30 $120-put example had roughly $113 breakeven. Discussed partial covered calls after assignment and appreciation; examples are not all Max’s fills.",
+        "links": []
+      },
+      {
+        "ticker": "RAM",
+        "time": "75:11",
+        "status": "Active wheel / CSP idea",
+        "price": "Around $9 in the model; $9 put example showed about $7.88 breakeven; preferred breakeven at/below $8.28.",
+        "position": "Reported assigned/bought shares and covered-call activity. Strongly bullish on memory after pullback; $8 / $8.60 strike examples also explored, but no exact expiration or new fill confirmed.",
+        "links": []
+      },
+      {
+        "ticker": "TQQQ",
+        "time": "64:19",
+        "status": "Wheel / entry scenario",
+        "price": "$60–65 downside scenario; preferred ownership below $70, especially $60 or lower.",
+        "position": "Discussed patient assignment entries and avoiding over-allocation; exact new contract not specified.",
+        "links": []
+      },
+      {
+        "ticker": "QQQ",
+        "time": "64:07",
+        "status": "Market scenario",
+        "price": "About $685 downside target, not a current quote.",
+        "position": "Pre-election pullback scenario corresponding to NDX around 28,000.",
+        "links": []
+      },
+      {
+        "ticker": "NDX",
+        "time": "62:49",
+        "status": "Market scenario",
+        "price": "Around 28,000 downside target.",
+        "position": "Expected potential further pullback into midterms; not a reported index trade.",
+        "links": []
+      },
+      {
+        "ticker": "ASML",
+        "time": "71:26",
+        "status": "Spread preference",
+        "price": "About $1,650/share; 100 shares about $165,000.",
+        "position": "Preferred spreads for capital efficiency versus a 100-share wheel; no exact spread legs or fill given.",
+        "links": []
+      },
+      {
+        "ticker": "MU",
+        "time": "76:25",
+        "status": "Bullish thesis",
+        "price": "Below $1,000.",
+        "position": "Micron pullback viewed as temporary; memory exposure discussed through RAM rather than a new separate MU fill.",
+        "links": []
+      },
+      {
+        "ticker": "SNDK",
+        "time": "77:05",
+        "status": "Bullish thesis",
+        "price": "Below $1,500.",
+        "position": "SanDisk included in the bullish memory discussion; no separate trade terms.",
+        "links": []
+      },
+      {
+        "ticker": "MCD",
+        "time": "83:57",
+        "status": "Small position held",
+        "price": "Entry recalled near $239 underlying.",
+        "position": "Max reported a small later-entry position; exact contract and current quote not restated. This recollection differs from the Oct 2 entry discussion.",
+        "links": []
+      },
+      {
+        "ticker": "ETHU",
+        "time": "110:31",
+        "status": "Viewer position / brief review",
+        "price": "$24 and $21 referenced by a viewer; contract type and expiry not established.",
+        "position": "Brief crypto-support discussion. A later “2300” caption is ambiguous between ETH / ETHU and is not published as an ETHU price target.",
+        "links": []
+      },
+      {
+        "ticker": "IGV",
+        "time": "115:05",
+        "status": "Market context",
+        "price": "Not quoted in the discussion.",
+        "position": "Software ETF described as bullish, RSI around 50 versus semiconductors around 37; no specific position.",
+        "links": []
+      },
+      {
+        "ticker": "VIX",
+        "time": "116:55",
+        "status": "Market context",
+        "price": "About 17.",
+        "position": "Volatility reading mentioned; no VIX trade specified.",
+        "links": []
+      },
+      {
+        "ticker": "XLK",
+        "time": "15:09",
+        "status": "Performance context",
+        "price": "Not quoted in the discussion.",
+        "position": "Technology-sector performance discussed; no new entry or contract.",
+        "links": []
+      },
+      {
+        "ticker": "SPY",
+        "time": "10:54",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index breadth / sector-rotation context, not a specific trade.",
+        "links": []
+      },
+      {
+        "ticker": "IWM",
+        "time": "10:54",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index breadth / sector-rotation context, not a specific trade.",
+        "links": []
+      },
+      {
+        "ticker": "NVDA",
+        "time": "13:24",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index-concentration examples; no price or new position terms specified.",
+        "links": []
+      },
+      {
+        "ticker": "SpaceX (ticker unconfirmed)",
+        "time": "13:24",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index-concentration examples; no price or new position terms specified.",
+        "links": []
+      },
+      {
+        "ticker": "AAPL",
+        "time": "16:20",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Technology / index-composition context; no separate position specified.",
+        "links": []
+      },
+      {
+        "ticker": "MSFT",
+        "time": "16:20",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Technology / index-composition context; no separate position specified.",
+        "links": []
+      },
+      {
+        "ticker": "SK Hynix",
+        "time": "77:23",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Memory-company example; no separately identified trade.",
+        "links": []
+      },
+      {
+        "ticker": "SOXX",
+        "time": "114:09",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Semiconductor benchmark comparison; no individual trade terms.",
+        "links": []
+      },
+      {
+        "ticker": "SOX",
+        "time": "114:09",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Semiconductor benchmark comparison; no individual trade terms.",
+        "links": []
+      },
+      {
+        "ticker": "SMH",
+        "time": "114:09",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Semiconductor benchmark comparison; no individual trade terms.",
+        "links": []
+      },
+      {
+        "ticker": "GOOGL / GOOG",
+        "time": "114:41",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index-composition examples; no new position specified.",
+        "links": []
+      },
+      {
+        "ticker": "AVGO",
+        "time": "114:41",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index-composition examples; no new position specified.",
+        "links": []
+      },
+      {
+        "ticker": "MRVL",
+        "time": "114:41",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index-composition examples; no new position specified.",
+        "links": []
+      },
+      {
+        "ticker": "CAT",
+        "time": "115:45",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "S&P / Dow overlap examples; no position specified.",
+        "links": []
+      },
+      {
+        "ticker": "WMT",
+        "time": "115:45",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "S&P / Dow overlap examples; no position specified.",
+        "links": []
+      },
+      {
+        "ticker": "TSM",
+        "time": "116:50",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Earnings mentioned by a viewer; no new trade.",
+        "links": []
+      }
+    ],
+    "tickerNote": "Stream-time recap from recording captions and shared chat links, not live quotes or a current holdings ledger. Prices are USD; option premiums are per share unless stated (usually ×100 per contract). Timestamps are replay positions. Models may change after sharing; saved model details were checked Oct 15, 2026. Missing terms are left unspecified; uncertain caption symbols are labeled.",
+    "thumbnailTitle": "October 14\nWednesday After Hours"
   },
   {
     "type": "Streams",
@@ -20,15 +260,227 @@
     "date": "2026-10-09",
     "label": "FRIDAY STREAM · REPLAY",
     "description": "LEAPS options strategies, entry and exit planning, position management, and technical analysis. Hosted by Max Lipset.",
-    "note": "1 hr 2 min · Topics based on Zoom’s recording summary. Zoom may require a passcode or sign-in.",
+    "note": "1 hr 2 min · Ticker notes checked against the recording transcript. Zoom may require a passcode or sign-in.",
     "links": [
       [
         "Watch on Zoom",
         "https://us06web.zoom.us/rec/share/DbCikHj1TcQRJYM90pKbFombNVqk17Dp9bT1CzJwJodkJqcvYTOWWPbehqF_G8M.CunpAaCoQVzjmP1J"
+      ],
+      [
+        "Ticker notes",
+        "streams/2026-10-09.html"
       ]
     ],
     "image": "",
-    "thumbnailTitle": "October 9\nLEAPS & trade management"
+    "thumbnailTitle": "October 9\nLEAPS & trade management",
+    "tickers": [
+      {
+        "ticker": "ARKG",
+        "time": "09:31",
+        "status": "Held / possible add",
+        "price": "$47 original underlying entry; option gain around 26% after earlier reaching about 70%.",
+        "position": "Jan 21, 2028 $50 calls; original Aug 28 entry. One-third already sold around 50% gain; discussed adding to the same contract and retaining runners. Saved model still shows original nine contracts, not the reduced live holding.",
+        "links": [
+          [
+            "Jan 21, 2028 $50 calls",
+            "https://optionstrat.com/tWRryFVy8L5R"
+          ]
+        ]
+      },
+      {
+        "ticker": "MCD",
+        "time": "21:28",
+        "status": "Held / averaging model",
+        "price": "About $232 support; $237 weekly-close level; option loss around 66%.",
+        "position": "Max held June $280 calls. Modeled adding three at $7 to three at $19.90; not a reported fill. Modeled breakeven changed from about $270 to $250. Exact expiry year/day not stated. Later watched $228 and $205 support.",
+        "links": []
+      },
+      {
+        "ticker": "SOXL",
+        "time": "40:44",
+        "status": "CSP idea",
+        "price": "About $140; $115–120 strikes considered; one model showed about 6% and $108 breakeven.",
+        "position": "Preferred breakeven below $120; longer-dated examples also explored. No new execution confirmed and exact date not established.",
+        "links": []
+      },
+      {
+        "ticker": "QQQ",
+        "time": "40:29",
+        "status": "Market scenario",
+        "price": "About $750; possible pullback toward $700.",
+        "position": "Pre-election downside scenario, not a reported position.",
+        "links": []
+      },
+      {
+        "ticker": "NDX",
+        "time": "34:52",
+        "status": "Market scenario",
+        "price": "Mid-29,000s potential downside area.",
+        "position": "Range / Gann-box thesis, not an executed trade.",
+        "links": []
+      },
+      {
+        "ticker": "PGY",
+        "time": "45:45",
+        "status": "Held / possible add",
+        "price": "Not quoted in the discussion.",
+        "position": "Still managing the Pagaya position and considering additions; no exact price or contract restated.",
+        "links": []
+      },
+      {
+        "ticker": "SpaceX (ticker unconfirmed)",
+        "time": "48:24",
+        "status": "Bearish-position review",
+        "price": "Original modeled breakeven around $135; expiration breakeven on screen around $95.",
+        "position": "Bearish options thesis questioned because of sustained strength; explicitly did not recommend doubling down. Ticker and exact contract unresolved.",
+        "links": []
+      },
+      {
+        "ticker": "ASTS",
+        "time": "51:53",
+        "status": "Retrospective short idea",
+        "price": "Viewer reported down about 15% that day.",
+        "position": "Short idea discussed in hindsight, not a fresh confirmed position.",
+        "links": []
+      },
+      {
+        "ticker": "ASTX",
+        "time": "52:05",
+        "status": "Prior short reference",
+        "price": "Not quoted in the discussion.",
+        "position": "Prior short referenced briefly; exact contract and current status not specified.",
+        "links": []
+      },
+      {
+        "ticker": "VST",
+        "time": "54:52",
+        "status": "Prior bullish idea",
+        "price": "Not quoted in the discussion.",
+        "position": "Vistra recommendation described as starting to work; no price or contract terms restated.",
+        "links": []
+      },
+      {
+        "ticker": "BULL (Webull)",
+        "time": "60:25",
+        "status": "Paper trade",
+        "price": "Paper position down about 50%.",
+        "position": "Explicitly described as a paper trade, not a live holding; no strike or expiry stated.",
+        "links": []
+      },
+      {
+        "ticker": "SNOW",
+        "time": "18:04",
+        "status": "Historical example",
+        "price": "Prior runners returned roughly 400–500%.",
+        "position": "Snowflake example supporting exits in thirds; not a new position.",
+        "links": []
+      },
+      {
+        "ticker": "“Ever pure” / “P” (ticker unresolved)",
+        "time": "15:10",
+        "status": "Historical closed example",
+        "price": "Prior exit around 100%; later roughly 135% discussed.",
+        "position": "Automatic transcript does not identify the ticker reliably. Do not substitute a guessed symbol.",
+        "links": []
+      },
+      {
+        "ticker": "CLOV",
+        "time": "09:11",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Clover Health setup mentioned; no entry or price specified.",
+        "links": []
+      },
+      {
+        "ticker": "TWST",
+        "time": "10:23",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Discussed as an ARKG holding / rotation example, not a separate trade.",
+        "links": []
+      },
+      {
+        "ticker": "Uranium ETF (ticker unconfirmed)",
+        "time": "20:56",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Existing uranium play referenced to explain long expirations; fund symbol and terms unresolved.",
+        "links": []
+      },
+      {
+        "ticker": "ETN (caption unconfirmed)",
+        "time": "45:39",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Brief caption reads ETN / not back in; no reliable new trade terms.",
+        "links": []
+      },
+      {
+        "ticker": "PAAS (caption “PAS”)",
+        "time": "46:10",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Viewer asked about positions; cost basis was requested but no completed trade recommendation followed.",
+        "links": []
+      },
+      {
+        "ticker": "KGC",
+        "time": "46:10",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Viewer asked about positions; cost basis was requested but no completed trade recommendation followed.",
+        "links": []
+      },
+      {
+        "ticker": "TSLA",
+        "time": "51:04",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Comparison of market sentiment in Musk-related companies; no new trade.",
+        "links": []
+      },
+      {
+        "ticker": "TEM",
+        "time": "61:01",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Tempus mentioned as an ARKG holding; viewer reported a roughly $1.50 intrastream rise, without a quote or trade.",
+        "links": []
+      },
+      {
+        "ticker": "AMC",
+        "time": "26:17",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Speculation-risk examples, not recommendations or positions.",
+        "links": []
+      },
+      {
+        "ticker": "GME",
+        "time": "26:17",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Speculation-risk examples, not recommendations or positions.",
+        "links": []
+      },
+      {
+        "ticker": "SOX / SOXX",
+        "time": "05:39",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Semiconductor underlying versus leveraged SOXL example; no contract or price specified.",
+        "links": []
+      },
+      {
+        "ticker": "SPY",
+        "time": "30:24",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Liquidity / index-high context; no position specified.",
+        "links": []
+      }
+    ],
+    "tickerNote": "Stream-time recap from recording captions and shared chat links, not live quotes or a current holdings ledger. Prices are USD; option premiums are per share unless stated (usually ×100 per contract). Timestamps are replay positions. Models may change after sharing; saved model details were checked Oct 15, 2026. Missing terms are left unspecified; uncertain caption symbols are labeled."
   },
   {
     "type": "Streams",
@@ -36,15 +488,227 @@
     "date": "2026-10-07",
     "label": "MARKET MOVES · REPLAY",
     "description": "Market conditions, ETF analysis, and options strategies, including covered calls and buy-writes. Hosted by Max Lipset.",
-    "note": "1 hr 42 min · Topics based on Zoom’s recording summary. Zoom may require a passcode or sign-in.",
+    "note": "1 hr 42 min · Ticker notes checked against the recording transcript. Zoom may require a passcode or sign-in.",
     "links": [
       [
         "Watch on Zoom",
         "https://us06web.zoom.us/rec/share/0_lOH8u3MB7s0-k9XUNrInQ6XBFA5cNiThm5ZJze2V7tg13PyWRiuIc1aLLgN9YD.g2dK6Zk-W7f7idFz"
+      ],
+      [
+        "Ticker notes",
+        "streams/2026-10-07.html"
       ]
     ],
     "image": "",
-    "thumbnailTitle": "October 7\nETFs & covered calls"
+    "thumbnailTitle": "October 7\nETFs & covered calls",
+    "tickers": [
+      {
+        "ticker": "SOXL",
+        "time": "15:27",
+        "status": "CSPs partly closed",
+        "price": "$135 put strike; underlying about $161 when Monday trade was entered.",
+        "position": "Nov 6, 2026 $135 CSPs reviewed. Some closed profitably Tuesday; remaining contracts near breakeven or slightly red after pullback. Also modeled lower strikes; no exact fill premium given.",
+        "links": []
+      },
+      {
+        "ticker": "TEMT",
+        "time": "22:33",
+        "status": "Active CSP / wheel",
+        "price": "Not quoted in the discussion.",
+        "position": "Out-of-the-money Tempus exposure used to diversify beyond tech; later named among current wheel positions. Strike and expiration not specified.",
+        "links": []
+      },
+      {
+        "ticker": "RAM",
+        "time": "24:36",
+        "status": "Accumulating / wheel",
+        "price": "Not quoted in the discussion.",
+        "position": "Accumulated shares and sold CSPs on Friday; puts turned green during this session. No exact cost or contract terms stated.",
+        "links": []
+      },
+      {
+        "ticker": "USD",
+        "time": "27:02",
+        "status": "Comparison model",
+        "price": "$95 strike example; about 5.9% quoted for Nov 20 after correcting the date.",
+        "position": "Compared 2× semiconductor ETF with SOXL: monthly expirations and lower volume. No trade execution reported.",
+        "links": []
+      },
+      {
+        "ticker": "NUGT",
+        "time": "31:12",
+        "status": "Shares held + CSP model",
+        "price": "About $139.50–140; existing covered calls at $175–180 on rallies.",
+        "position": "Held shares and traded covered calls. Shared Nov 20, 2026 $120 CSP; saved model has $645 credit / $113.55 breakeven per 100 shares. Separate buy-write around $168 was only a rough example, with wide spreads.",
+        "links": [
+          [
+            "Nov 20 $120 put",
+            "https://optionstrat.com/ys25vrj3EijH"
+          ]
+        ]
+      },
+      {
+        "ticker": "GDX",
+        "time": "37:08",
+        "status": "Underlying comparison",
+        "price": "Not quoted in the discussion.",
+        "position": "Gold-miner benchmark compared with NUGT and physical gold; no individual position terms given.",
+        "links": []
+      },
+      {
+        "ticker": "GLD",
+        "time": "59:51",
+        "status": "Candidate",
+        "price": "Not quoted in the discussion.",
+        "position": "Preferred for liquidity / frequent expirations versus UGL, but requires more capital. No new fill.",
+        "links": []
+      },
+      {
+        "ticker": "UGL",
+        "time": "59:16",
+        "status": "Candidate",
+        "price": "Not quoted in the discussion.",
+        "position": "Gold-price vehicle suggested by a viewer; compared on liquidity, collateral and expiration choices. No new position.",
+        "links": []
+      },
+      {
+        "ticker": "AGQ",
+        "time": "56:55",
+        "status": "Watchlist / historical risk example",
+        "price": "Earlier-year move above $400 and fall near $90 were historical examples.",
+        "position": "Silver leverage discussed cautiously; high premium alone was not treated as sufficient reason to buy-write.",
+        "links": []
+      },
+      {
+        "ticker": "COHX",
+        "time": "65:49",
+        "status": "Historical closed wheel",
+        "price": "$23–23.75 share entry; roughly $28 cover level; about 5% call premium.",
+        "position": "Prior 400-share wheel example: covered half, sold uncovered shares for over 40%, and eventually fully exited for over 30% overall. Considered a possible fresh entry, not confirmed.",
+        "links": []
+      },
+      {
+        "ticker": "MULL",
+        "time": "70:46",
+        "status": "Existing shares / calls bought back",
+        "price": "Prior entry around $25; Oct 16 $30 calls sold near $1.35, bought back near $0.60.",
+        "position": "Revisited Sep 30 trade: 400 shares, half covered; about $75 profit per covered-call contract described. Not a 50% return on the entire stock position.",
+        "links": []
+      },
+      {
+        "ticker": "MUU",
+        "time": "78:30",
+        "status": "Comparison only",
+        "price": "Not quoted in the discussion.",
+        "position": "First look at another 2× Micron vehicle with weekly options; no position entered.",
+        "links": []
+      },
+      {
+        "ticker": "MSTX",
+        "time": "86:53",
+        "status": "Hypothetical buy-write",
+        "price": "Shares near $18; $23 call strike; roughly 12% premium for about 30 days.",
+        "position": "Modeled partial-covered buy-write for a bullish crypto view. Not reported as an executed trade.",
+        "links": []
+      },
+      {
+        "ticker": "QQQ",
+        "time": "07:25",
+        "status": "Market context",
+        "price": "Near $763 recent high.",
+        "position": "Discussed thin market breadth / potential pullback before elections; no new contract specified.",
+        "links": []
+      },
+      {
+        "ticker": "NDX",
+        "time": "06:45",
+        "status": "Market context",
+        "price": "31,196 quoted; later above 31,200.",
+        "position": "Breakout beyond the prior range discussed; no separate position.",
+        "links": []
+      },
+      {
+        "ticker": "SpaceX (ticker unconfirmed)",
+        "time": "13:01",
+        "status": "Market context",
+        "price": "$176–177 recent level.",
+        "position": "Rally and index concentration discussed; no verified ticker or new trade terms.",
+        "links": []
+      },
+      {
+        "ticker": "JPM",
+        "time": "04:18",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Bank earnings context only; no position or price stated.",
+        "links": []
+      },
+      {
+        "ticker": "GS",
+        "time": "04:18",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Bank earnings context only; no position or price stated.",
+        "links": []
+      },
+      {
+        "ticker": "NVDA",
+        "time": "11:52",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index-concentration example; no new NVIDIA trade.",
+        "links": []
+      },
+      {
+        "ticker": "TQQQ",
+        "time": "17:04",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Daily-leverage comparison with QQQ; no new entry terms.",
+        "links": []
+      },
+      {
+        "ticker": "S (SentinelOne, tentative)",
+        "time": "31:44",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Question acknowledged, but a ticker-specific trade was not developed.",
+        "links": []
+      },
+      {
+        "ticker": "MVLL",
+        "time": "47:51",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Prior seller-shutoff example; no current price or position details.",
+        "links": []
+      },
+      {
+        "ticker": "MU",
+        "time": "71:05",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Underlying earnings thesis for MULL; no separate MU trade. Ambiguous automatic-caption price not used.",
+        "links": []
+      },
+      {
+        "ticker": "COIN",
+        "time": "84:23",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Crypto catalyst / volatility examples for buy-writes; no new trade terms.",
+        "links": []
+      },
+      {
+        "ticker": "MSTR",
+        "time": "84:23",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Crypto catalyst / volatility examples for buy-writes; no new trade terms.",
+        "links": []
+      }
+    ],
+    "tickerNote": "Stream-time recap from recording captions and shared chat links, not live quotes or a current holdings ledger. Prices are USD; option premiums are per share unless stated (usually ×100 per contract). Timestamps are replay positions. Models may change after sharing; saved model details were checked Oct 15, 2026. Missing terms are left unspecified; uncertain caption symbols are labeled."
   },
   {
     "type": "Streams",
@@ -57,10 +721,275 @@
       [
         "Watch on Zoom",
         "https://us06web.zoom.us/rec/share/7brf4Urjz_VnGrp21Kx2MPwgf_pEsXSjvb1kKfLslhLDijapSarlEodUvSA5mnOY.jVnLfUzpjCgAaSSH"
+      ],
+      [
+        "Ticker notes",
+        "streams/2026-10-02.html"
       ]
     ],
     "image": "",
-    "thumbnailTitle": "October 2\nMarket Moves"
+    "thumbnailTitle": "October 2\nMarket Moves",
+    "tickers": [
+      {
+        "ticker": "ARKG",
+        "time": "09:31",
+        "status": "Partial exit",
+        "price": "$10.58 option cost; first-third exit about $15.70 (roughly 48% gain).",
+        "position": "Nine-contract starting position; three sold, six remaining. Remaining value quoted at $8,940. Next modeled underlying target around $61.84; advised against chasing. Exact contract not restated in this stream.",
+        "links": []
+      },
+      {
+        "ticker": "MCD",
+        "time": "15:02",
+        "status": "Held / cautious",
+        "price": "Option position about 60–70% down; share entry recalled near $249; shares around $230.",
+        "position": "Small long-call position retained; modeled breakeven about $270. No aggressive averaging down without renewed conviction; reassess as time remaining approaches 120 days.",
+        "links": []
+      },
+      {
+        "ticker": "IREN",
+        "time": "18:42",
+        "status": "Held",
+        "price": "$65 call strike; 24 contracts at $8.62 average premium; current premium quoted near $6.45.",
+        "position": "Position down roughly 28–30%. Modeled first 50% profit exit around $54–55 underlying. Adding 16 contracts was a hypothetical rejected due to sizing and limited benefit; exact expiration not spoken.",
+        "links": []
+      },
+      {
+        "ticker": "PGY",
+        "time": "46:08",
+        "status": "Held / added",
+        "price": "Position about 40% down, then about 35% down after additions.",
+        "position": "Max said he had nearly doubled the position while retaining his thesis. No exact strike, expiry or share price stated.",
+        "links": []
+      },
+      {
+        "ticker": "SpaceX (ticker unconfirmed)",
+        "time": "15:17",
+        "status": "Put / hedge discussion",
+        "price": "Put about 40% down; modeled 50% gain near $105 underlying; possible add around $165–170.",
+        "position": "Bearish hedge discussed. Transcript later says “not in” this put after earlier first-person position language, so ownership is unresolved. No ticker or contract assigned without confirmation.",
+        "links": []
+      },
+      {
+        "ticker": "QQQ",
+        "time": "33:50",
+        "status": "Hedge idea",
+        "price": "About $750; saved model is Nov 30, 2026 $720 long put.",
+        "position": "After-midterms downside hedge shared in chat. OptionStrat currently preserves a $12.69/share modeled debit ($1,269 per contract), not a confirmed fill.",
+        "links": [
+          [
+            "Nov 30 $720 long put",
+            "https://optionstrat.com/0r9bpl7Kirt5"
+          ]
+        ]
+      },
+      {
+        "ticker": "HUBS",
+        "time": "58:26",
+        "status": "Held / bullish",
+        "price": "Position described as down; stream-time share price not stated.",
+        "position": "HubSpot long call shared. Saved link identifies Jan 15, 2027 $250 calls. Model inspected Oct 15 shows seven contracts / $16,247 debit; model may have been edited since the stream.",
+        "links": [
+          [
+            "Jan 15, 2027 $250 calls",
+            "https://optionstrat.com/QQYiGjaqzccA"
+          ]
+        ]
+      },
+      {
+        "ticker": "Uranium ETF (ticker unconfirmed)",
+        "time": "55:12",
+        "status": "Held / waiting",
+        "price": "Position down about 20%.",
+        "position": "Waiting for improving trend before adding. Exact fund ticker, strike and expiry not spoken clearly.",
+        "links": []
+      },
+      {
+        "ticker": "VST",
+        "time": "55:25",
+        "status": "Open-position review",
+        "price": "Not quoted in the discussion.",
+        "position": "Vistra reviewed with uranium / power-generation theme; no exact price, contract or new fill supplied.",
+        "links": []
+      },
+      {
+        "ticker": "CAT",
+        "time": "56:32",
+        "status": "Tracked call",
+        "price": "Long call turned green that week; no price quoted.",
+        "position": "Caterpillar call dated Sep 11 discussed; exact strike and expiration not stated, and live vs paper status not established.",
+        "links": []
+      },
+      {
+        "ticker": "VLO",
+        "time": "57:54",
+        "status": "Watchlist / stock preferred",
+        "price": "Not quoted in the discussion.",
+        "position": "Valero bullish / optimal screen; options liquidity was a concern, so shares were suggested as an alternative. No fill stated.",
+        "links": []
+      },
+      {
+        "ticker": "GOOGL / GOOG",
+        "time": "57:20",
+        "status": "Prior call idea",
+        "price": "Not quoted in the discussion.",
+        "position": "Google and a leveraged Google call were discussed favorably; share class and leveraged ticker were not specified.",
+        "links": []
+      },
+      {
+        "ticker": "MSTX",
+        "time": "35:40",
+        "status": "Historical leverage example",
+        "price": "About $20 at discussion; earlier chart high around $2,200, affected by reverse splits.",
+        "position": "Used to explain daily leverage and drawdown, not a new trade.",
+        "links": []
+      },
+      {
+        "ticker": "LYFT",
+        "time": "07:55",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Named among existing Friday-stream positions; no price, contract terms or management change given.",
+        "links": []
+      },
+      {
+        "ticker": "NTNX",
+        "time": "07:55",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Named among existing Friday-stream positions; no price, contract terms or management change given.",
+        "links": []
+      },
+      {
+        "ticker": "BBAR",
+        "time": "10:11",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Potential new trade mentioned briefly; no price or position established.",
+        "links": []
+      },
+      {
+        "ticker": "TQQQ",
+        "time": "34:26",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Leverage / index comparison only; no new contract terms stated in this segment.",
+        "links": []
+      },
+      {
+        "ticker": "SOXL",
+        "time": "34:26",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Leverage / index comparison only; no new contract terms stated in this segment.",
+        "links": []
+      },
+      {
+        "ticker": "MSTR",
+        "time": "34:26",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Leverage / index comparison only; no new contract terms stated in this segment.",
+        "links": []
+      },
+      {
+        "ticker": "NUGT",
+        "time": "34:26",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Leverage / index comparison only; no new contract terms stated in this segment.",
+        "links": []
+      },
+      {
+        "ticker": "NKE",
+        "time": "28:16",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Falling-knife comparison with McDonald’s; no new position specified.",
+        "links": []
+      },
+      {
+        "ticker": "GM",
+        "time": "44:00",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Legacy-business comparison in Q&A; no trade or price specified. Unverified corporate-history claims are not repeated here.",
+        "links": []
+      },
+      {
+        "ticker": "VSCO",
+        "time": "44:00",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Legacy-business comparison in Q&A; no trade or price specified. Unverified corporate-history claims are not repeated here.",
+        "links": []
+      },
+      {
+        "ticker": "LULU",
+        "time": "44:00",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Legacy-business comparison in Q&A; no trade or price specified. Unverified corporate-history claims are not repeated here.",
+        "links": []
+      },
+      {
+        "ticker": "USAR",
+        "time": "59:35",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Rare-earth / land watchlist candidates, not confirmed entries.",
+        "links": []
+      },
+      {
+        "ticker": "TPL",
+        "time": "59:35",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Rare-earth / land watchlist candidates, not confirmed entries.",
+        "links": []
+      },
+      {
+        "ticker": "XLE",
+        "time": "61:54",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Bullish energy screening / options-liquidity research; no completed trade announced.",
+        "links": []
+      },
+      {
+        "ticker": "ERX",
+        "time": "61:54",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Bullish energy screening / options-liquidity research; no completed trade announced.",
+        "links": []
+      },
+      {
+        "ticker": "COP",
+        "time": "61:54",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Bullish energy screening / options-liquidity research; no completed trade announced.",
+        "links": []
+      },
+      {
+        "ticker": "NVDA",
+        "time": "08:10",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Nutanix/data-center context; no separate NVIDIA position specified.",
+        "links": []
+      },
+      {
+        "ticker": "NDX",
+        "time": "13:51",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Pre-election pullback thesis; not a separately specified position.",
+        "links": []
+      }
+    ],
+    "tickerNote": "Stream-time recap from recording captions and shared chat links, not live quotes or a current holdings ledger. Prices are USD; option premiums are per share unless stated (usually ×100 per contract). Timestamps are replay positions. Models may change after sharing; saved model details were checked Oct 15, 2026. Missing terms are left unspecified; uncertain caption symbols are labeled."
   },
   {
     "type": "Streams",
@@ -73,10 +1002,298 @@
       [
         "Watch on Zoom",
         "https://us06web.zoom.us/rec/share/R3jB5UM5G-DksHii7t1mZubaKdbZXyWm0881P0AZd6m9NMFR1ZyZ54Pl0_1Iq0Em.AOStVzs66MkKUvwi"
+      ],
+      [
+        "Ticker notes",
+        "streams/2026-09-30.html"
       ]
     ],
     "image": "",
-    "thumbnailTitle": "September 30\nMarket Moves"
+    "thumbnailTitle": "September 30\nMarket Moves",
+    "tickers": [
+      {
+        "ticker": "MULL",
+        "time": "04:12",
+        "status": "Opened / held",
+        "price": "$25.65 share entry; $1.35 and $1.40 call premiums per share.",
+        "position": "Bought 400 shares before Micron earnings; sold two Oct 16 $30 calls, covering half. Planned to run the wheel through expiration.",
+        "links": []
+      },
+      {
+        "ticker": "MU",
+        "time": "08:58",
+        "status": "Bullish thesis",
+        "price": "$1,100 and $1,200 upside scenarios, not entry fills.",
+        "position": "Micron earnings thesis underlying the MULL trade; no separate MU option position specified.",
+        "links": []
+      },
+      {
+        "ticker": "ARKG",
+        "time": "12:10",
+        "status": "Held",
+        "price": "Not quoted in the discussion.",
+        "position": "Existing genomics position mentioned as benefiting from healthcare strength; no contract details reviewed here.",
+        "links": []
+      },
+      {
+        "ticker": "XLU",
+        "time": "13:08",
+        "status": "Avoid / cautious",
+        "price": "Not quoted in the discussion.",
+        "position": "Utilities described as bearish since April; no trade opened.",
+        "links": []
+      },
+      {
+        "ticker": "TQQQ",
+        "time": "53:34",
+        "status": "CSP comparison",
+        "price": "About $78; $55–60 downside scenario; preferred assignment near $60.",
+        "position": "Discussed out-of-the-money puts. Rejected a Nov 20 example with $69.75 breakeven as too high for the downside thesis; no fill reported.",
+        "links": []
+      },
+      {
+        "ticker": "SOXL",
+        "time": "55:53",
+        "status": "CSP models",
+        "price": "About $147 later in the stream; $138 short put showed about 6.8% premium/collateral.",
+        "position": "Shared Oct 16 $138 and Nov 20 $120 cash-secured-put models. The latter targeted roughly $107 breakeven. Links show saved models, not proof of a brokerage fill.",
+        "links": [
+          [
+            "Oct 16 $138 put",
+            "https://optionstrat.com/7o9hoFqZdBUm"
+          ],
+          [
+            "Nov 20 $120 put",
+            "https://optionstrat.com/QdDXqHbsIO4R"
+          ]
+        ]
+      },
+      {
+        "ticker": "RAM",
+        "time": "56:31",
+        "status": "CSP idea",
+        "price": "$12 strike discussed; roughly 12% for a 51-day put.",
+        "position": "Memory ETF used as a lower-collateral alternative to SOXL. Also compared Oct 16 puts; quotes changed as strikes were adjusted. No fill confirmed.",
+        "links": []
+      },
+      {
+        "ticker": "DRAM",
+        "time": "57:07",
+        "status": "Underlying comparison",
+        "price": "Not quoted in the discussion.",
+        "position": "Unleveraged memory fund chart used to assess RAM support at the 200-day average.",
+        "links": []
+      },
+      {
+        "ticker": "AVGO",
+        "time": "59:57",
+        "status": "Watchlist / cautious",
+        "price": "Not quoted in the discussion.",
+        "position": "Broadcom reviewed; preferred memory names over individual semiconductors at this point. No new position specified.",
+        "links": []
+      },
+      {
+        "ticker": "MRVL",
+        "time": "60:37",
+        "status": "Relative preference",
+        "price": "Not quoted in the discussion.",
+        "position": "Marvell preferred to Broadcom for perceived growth potential; no entry or contract given.",
+        "links": []
+      },
+      {
+        "ticker": "COHR",
+        "time": "62:00",
+        "status": "Watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Coherent holding the 200-day average; waiting for confirmation before a fresh entry.",
+        "links": []
+      },
+      {
+        "ticker": "COHX",
+        "time": "62:08",
+        "status": "Held CSP",
+        "price": "Not quoted in the discussion.",
+        "position": "Max reported a conservative short cash-secured put on the leveraged Coherent vehicle; strike and expiration not stated.",
+        "links": []
+      },
+      {
+        "ticker": "CRDO",
+        "time": "65:17",
+        "status": "Watchlist",
+        "price": "$200 monthly-close level discussed.",
+        "position": "Credo added to watchlist; weak money flow / wait signal and no confirmed breakout.",
+        "links": []
+      },
+      {
+        "ticker": "NUGT",
+        "time": "79:10",
+        "status": "Bullish watchlist",
+        "price": "About $147.",
+        "position": "Gold-miner ETF seen as offering upside, with oil stability still a condition; no new fill stated.",
+        "links": []
+      },
+      {
+        "ticker": "SNOW",
+        "time": "77:46",
+        "status": "Historical closed trade",
+        "price": "$335 later chart level; reported prior option return around 400%.",
+        "position": "Snowflake used as an example of selling before a further rally; not a new entry.",
+        "links": []
+      },
+      {
+        "ticker": "LABU",
+        "time": "79:03",
+        "status": "Watchlist",
+        "price": "$300 earlier-year high, not current price.",
+        "position": "Leveraged biotech exposure mentioned; no contract specified.",
+        "links": []
+      },
+      {
+        "ticker": "ROBN",
+        "time": "24:15",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Finance / AI-healthcare examples, not a new trade. No strike, expiration or fill stated.",
+        "links": []
+      },
+      {
+        "ticker": "HOOD",
+        "time": "24:15",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Finance / AI-healthcare examples, not a new trade. No strike, expiration or fill stated.",
+        "links": []
+      },
+      {
+        "ticker": "MRNA",
+        "time": "24:15",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Finance / AI-healthcare examples, not a new trade. No strike, expiration or fill stated.",
+        "links": []
+      },
+      {
+        "ticker": "Critical Metals (ticker unconfirmed)",
+        "time": "29:50",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Rare-earth / land-acquisition research thesis; no position or entry price stated.",
+        "links": []
+      },
+      {
+        "ticker": "TPL",
+        "time": "29:50",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Rare-earth / land-acquisition research thesis; no position or entry price stated.",
+        "links": []
+      },
+      {
+        "ticker": "SK Hynix",
+        "time": "56:47",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Memory-company examples within the RAM discussion; no separate position specified.",
+        "links": []
+      },
+      {
+        "ticker": "SNDK",
+        "time": "56:47",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Memory-company examples within the RAM discussion; no separate position specified.",
+        "links": []
+      },
+      {
+        "ticker": "CRVL",
+        "time": "74:38",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Bullish or improving watchlist examples; no entry, strike or expiration stated.",
+        "links": []
+      },
+      {
+        "ticker": "CAT",
+        "time": "74:38",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Bullish or improving watchlist examples; no entry, strike or expiration stated.",
+        "links": []
+      },
+      {
+        "ticker": "BOTZ",
+        "time": "74:38",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Bullish or improving watchlist examples; no entry, strike or expiration stated.",
+        "links": []
+      },
+      {
+        "ticker": "MSTR",
+        "time": "77:13",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Crypto, software or technology watchlist/context; no new trade terms supplied.",
+        "links": []
+      },
+      {
+        "ticker": "BMNR",
+        "time": "77:13",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Crypto, software or technology watchlist/context; no new trade terms supplied.",
+        "links": []
+      },
+      {
+        "ticker": "TWLO",
+        "time": "77:13",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Crypto, software or technology watchlist/context; no new trade terms supplied.",
+        "links": []
+      },
+      {
+        "ticker": "TECL",
+        "time": "77:13",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Crypto, software or technology watchlist/context; no new trade terms supplied.",
+        "links": []
+      },
+      {
+        "ticker": "AUGO",
+        "time": "51:12",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Brief ticker mention only; no price or position developed.",
+        "links": []
+      },
+      {
+        "ticker": "AAPL",
+        "time": "68:22",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Participant example in an entry-method question; no Apple trade developed.",
+        "links": []
+      },
+      {
+        "ticker": "NDX",
+        "time": "51:55",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index context for a possible pre-election pullback; not a separately specified position.",
+        "links": []
+      },
+      {
+        "ticker": "QQQ",
+        "time": "51:55",
+        "status": "Context / watchlist",
+        "price": "Not quoted in the discussion.",
+        "position": "Index context for a possible pre-election pullback; not a separately specified position.",
+        "links": []
+      }
+    ],
+    "tickerNote": "Stream-time recap from recording captions and shared chat links, not live quotes or a current holdings ledger. Prices are USD; option premiums are per share unless stated (usually ×100 per contract). Timestamps are replay positions. Models may change after sharing; saved model details were checked Oct 15, 2026. Missing terms are left unspecified; uncertain caption symbols are labeled."
   },
   {
     "type": "Decks",

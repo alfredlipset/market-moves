@@ -4,7 +4,7 @@ const cards = document.querySelector('#cards'), count = document.querySelector('
 function element(tag, cls, text) { const node = document.createElement(tag); if (cls) node.className = cls; if (text) node.textContent = text; return node; }
 function render() {
   const query = search.value.trim().toLowerCase();
-  const results = items.filter(item => (active === 'All' || item.type === active) && [item.title,item.description,item.label,item.type,item.date].join(' ').toLowerCase().includes(query));
+  const results = items.filter(item => (active === 'All' || item.type === active) && [item.title,item.description,item.label,item.type,item.date,JSON.stringify(item.tickers || [])].join(' ').toLowerCase().includes(query));
   cards.replaceChildren(); count.textContent = `${results.length} ${results.length === 1 ? 'resource' : 'resources'}${active !== 'All' ? ' · ' + active : ''}`;
   if (!results.length) { cards.append(element('p','empty','No matches yet. Try another search or choose All content.')); return; }
   for (const item of results) {
@@ -14,6 +14,19 @@ function render() {
     const body = element('div','card-body'), meta = element('div','meta'); meta.append(element('span','',item.label));
     if (item.date) { const date = element('time','',new Date(item.date+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})); date.dateTime = item.date; meta.append(date); }
     body.append(meta,element('h3','',item.title),element('p','',item.description),element('p','note',item.note));
+    if (item.tickers && item.tickers.length) {
+      const detail = element('details','ticker-details');
+      detail.append(element('summary','',`Tickers & positions (${item.tickers.length})`));
+      detail.append(element('p','note',item.tickerNote));
+      for (const row of item.tickers) {
+        const entry = element('section','ticker-entry');
+        entry.append(element('h4','',row.ticker + ' · ' + row.time), element('span','ticker-status',row.status), element('p','',row.price), element('p','',row.position));
+        for (const [label,url] of row.links || []) { const a=element('a','',label + ' · OptionStrat ↗'); a.href=url; a.target='_blank'; a.rel='noopener noreferrer'; entry.append(a); }
+        detail.append(entry);
+      }
+      if (query && item.tickers.some(row => JSON.stringify(row).toLowerCase().includes(query))) detail.open=true;
+      body.append(detail);
+    }
     const links = element('div','card-links');
     for (const [label,url] of item.links) { const a = element('a','',label + ' ↗'); a.href = url; if(url.startsWith('https://')) { a.target='_blank'; a.rel='noopener noreferrer'; } links.append(a); }
     body.append(links); card.append(thumb,body); cards.append(card);
