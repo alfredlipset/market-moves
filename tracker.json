@@ -1,0 +1,357 @@
+{
+  "updated": "2026-10-16",
+  "trades": [
+    {
+      "ticker": "DFEN",
+      "strategy": "Long call \u00b7 $50 \u00b7 Jan 15, 2027",
+      "quantity": "Not stated",
+      "entry": "$5.64 premium",
+      "status": "Reported open",
+      "date": "2026-10-16",
+      "note": "Defense rebound thesis. Total quantity not stated.",
+      "source": "streams/2026-10-16.html",
+      "links": [
+        [
+          "OptionStrat",
+          "https://optionstrat.com/Qh2hWRxEeMxJ"
+        ]
+      ]
+    },
+    {
+      "ticker": "IREN",
+      "strategy": "Long call \u00b7 $65 \u00b7 Sep 17, 2027",
+      "quantity": "24 contracts",
+      "entry": "$8.62 average (Oct 2)",
+      "status": "Reported open",
+      "date": "2026-10-16",
+      "note": "No add yet; waiting for better timing. Expiry referenced in Oct 16 discussion.",
+      "source": "streams/2026-10-16.html",
+      "links": []
+    },
+    {
+      "ticker": "MCD",
+      "strategy": "Long call \u00b7 $280 \u00b7 June (day/year unconfirmed)",
+      "quantity": "3 added; total unconfirmed",
+      "entry": "About $12.77 blended premium",
+      "status": "Reported open",
+      "date": "2026-10-16",
+      "note": "Added three at $5.80 after prior Friday stream; possible exit on rebound. June $280 terms from Oct 9.",
+      "source": "streams/2026-10-16.html",
+      "links": []
+    },
+    {
+      "ticker": "PGY",
+      "strategy": "Long call \u00b7 $20 \u00b7 Jun 17, 2027",
+      "quantity": "15 contracts (Oct 6)",
+      "entry": "$5.94 average",
+      "status": "Reported open",
+      "date": "2026-10-09",
+      "note": "Still managing / considering additions on Oct 9. Quantity and contract from Oct 6 submitted snapshot.",
+      "source": "streams/2026-10-09.html",
+      "links": []
+    },
+    {
+      "ticker": "RAM",
+      "strategy": "Shares / covered-call wheel",
+      "quantity": "Not stated",
+      "entry": "Not stated",
+      "status": "Reported open",
+      "date": "2026-10-14",
+      "note": "Assigned/bought shares and covered-call activity reported; current call terms and quantities not stated.",
+      "source": "streams/2026-10-14.html",
+      "links": []
+    },
+    {
+      "ticker": "MULL",
+      "strategy": "Long shares",
+      "quantity": "400 shares",
+      "entry": "$25.65 per share",
+      "status": "Reported open",
+      "date": "2026-10-07",
+      "note": "Oct 16 $30 covered calls bought back; stock position retained in latest review.",
+      "source": "streams/2026-10-07.html",
+      "links": []
+    },
+    {
+      "ticker": "NUGT",
+      "strategy": "Long shares",
+      "quantity": "100 shares (Oct 6)",
+      "entry": "$180.80 average",
+      "status": "Reported open",
+      "date": "2026-10-07",
+      "note": "Shares held and covered calls traded. Quantity from submitted Oct 6 snapshot.",
+      "source": "streams/2026-10-07.html",
+      "links": []
+    },
+    {
+      "ticker": "NUGT",
+      "strategy": "Short call \u00b7 $180 \u00b7 Oct 30 (year unconfirmed)",
+      "quantity": "1 short contract",
+      "entry": "$3.50 credit per share",
+      "status": "Snapshot open",
+      "date": "2026-10-06",
+      "note": "Covered by submitted 100 shares; later call trading discussed without exact-leg reconciliation.",
+      "source": "",
+      "links": []
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "Short put \u00b7 $135 \u00b7 Nov 6, 2026",
+      "quantity": "1 short in Oct 6 snapshot; remainder unconfirmed",
+      "entry": "$8.60 credit per share (Oct 6)",
+      "status": "Reported open",
+      "date": "2026-10-07",
+      "note": "Some puts closed; remaining contracts reported. Current quantity needs confirmation.",
+      "source": "streams/2026-10-07.html",
+      "links": []
+    },
+    {
+      "ticker": "TSLL",
+      "strategy": "Long shares",
+      "quantity": "400 shares",
+      "entry": "$9.9625 weighted lot cost",
+      "status": "Snapshot open",
+      "date": "2026-10-06",
+      "note": "Three submitted lots; no later close captured.",
+      "source": "",
+      "links": []
+    },
+    {
+      "ticker": "SMCX",
+      "strategy": "Long shares",
+      "quantity": "300 shares",
+      "entry": "About $8.19 weighted lot cost",
+      "status": "Snapshot open",
+      "date": "2026-10-06",
+      "note": "Stock retained. The three Oct 16 $16 short calls were bought to close and are excluded.",
+      "source": "",
+      "links": []
+    },
+    {
+      "ticker": "GGLL",
+      "strategy": "Long shares",
+      "quantity": "100 shares",
+      "entry": "$122.85 per share",
+      "status": "Snapshot open",
+      "date": "2026-10-06",
+      "note": "Separate from the Oct 16 $130 call model, which was a potential entry, not a confirmed Max fill.",
+      "source": "",
+      "links": []
+    },
+    {
+      "ticker": "ARKG",
+      "strategy": "Long call \u00b7 $50 \u00b7 Jan 21, 2028",
+      "quantity": "6 remaining in Oct 6 snapshot",
+      "entry": "$10.22 displayed average",
+      "status": "Needs confirmation",
+      "date": "2026-10-16",
+      "note": "Oct 9 retained runners; Oct 16 profits taken / re-entry discussion leaves current remainder unclear. Nine-contract model is not current quantity.",
+      "source": "streams/2026-10-16.html",
+      "links": [
+        [
+          "Model only",
+          "https://optionstrat.com/tWRryFVy8L5R"
+        ]
+      ]
+    },
+    {
+      "ticker": "HUBS",
+      "strategy": "Long call model \u00b7 $250 \u00b7 Jan 15, 2027",
+      "quantity": "7 in saved model; not confirmed",
+      "entry": "$23.21 modeled premium",
+      "status": "Needs confirmation",
+      "date": "2026-10-16",
+      "note": "Shorter-term calls reported exited Oct 16, but exact legs not identified. Do not count saved model as a confirmed open holding.",
+      "source": "streams/2026-10-16.html",
+      "links": [
+        [
+          "Model only",
+          "https://optionstrat.com/QQYiGjaqzccA"
+        ]
+      ]
+    },
+    {
+      "ticker": "RAM",
+      "strategy": "Short put \u00b7 $14 \u00b7 Oct 16, 2026",
+      "quantity": "2 short in Oct 6 snapshot",
+      "entry": "Not captured",
+      "status": "Needs confirmation",
+      "date": "2026-10-14",
+      "note": "Oct 14 assignment / wheel update not matched to these exact puts. Expiration Oct 16; assignment or closing status needs confirmation.",
+      "source": "streams/2026-10-14.html",
+      "links": []
+    },
+    {
+      "ticker": "VST",
+      "strategy": "Instrument / contract not stated",
+      "quantity": "Not stated",
+      "entry": "Not stated",
+      "status": "Needs confirmation",
+      "date": "2026-10-02",
+      "note": "Included in open-position review, but no exact position terms captured.",
+      "source": "streams/2026-10-02.html",
+      "links": []
+    },
+    {
+      "ticker": "Uranium ETF \u2014 ticker unresolved",
+      "strategy": "Instrument / contract not stated",
+      "quantity": "Not stated",
+      "entry": "Not stated",
+      "status": "Needs confirmation",
+      "date": "2026-10-02",
+      "note": "Held position described, but fund ticker unresolved. Kept visible to avoid silently omitting it.",
+      "source": "streams/2026-10-02.html",
+      "links": []
+    }
+  ],
+  "chaikin": {
+    "scanDate": "2026-10-12",
+    "ratingDate": "2026-10-10",
+    "technicalDate": "2026-10-09",
+    "rows": [
+      {
+        "symbol": "SY",
+        "rating": "Bullish",
+        "entry": "Optimal",
+        "strength": "3",
+        "timing": "3",
+        "relative": "Strong",
+        "industryStrength": "Strong",
+        "trend": "Strong",
+        "flow": "Strong",
+        "marketCap": "$251.00 M",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/SY"
+      },
+      {
+        "symbol": "KPRX",
+        "rating": "Bullish",
+        "entry": "Optimal",
+        "strength": "2",
+        "timing": "3",
+        "relative": "Weak",
+        "industryStrength": "Strong",
+        "trend": "Strong",
+        "flow": "Strong",
+        "marketCap": "$11.00 M",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/KPRX"
+      },
+      {
+        "symbol": "EXEL",
+        "rating": "Very Bullish",
+        "entry": "Optimal",
+        "strength": "3",
+        "timing": "2",
+        "relative": "Strong",
+        "industryStrength": "Strong",
+        "trend": "Strong",
+        "flow": "Neutral",
+        "marketCap": "$14.90 B",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/EXEL"
+      },
+      {
+        "symbol": "SPNT",
+        "rating": "Very Bullish",
+        "entry": "Optimal",
+        "strength": "3",
+        "timing": "2",
+        "relative": "Strong",
+        "industryStrength": "Strong",
+        "trend": "Strong",
+        "flow": "Weak",
+        "marketCap": "$2.90 B",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/SPNT"
+      },
+      {
+        "symbol": "CGAU",
+        "rating": "Bullish",
+        "entry": "Optimal",
+        "strength": "2",
+        "timing": "2",
+        "relative": "Strong",
+        "industryStrength": "Weak",
+        "trend": "Strong",
+        "flow": "Neutral",
+        "marketCap": "$4.42 B",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/CGAU"
+      },
+      {
+        "symbol": "LQDT",
+        "rating": "Very Bullish",
+        "entry": "Optimal",
+        "strength": "2",
+        "timing": "2",
+        "relative": "Strong",
+        "industryStrength": "Weak",
+        "trend": "Strong",
+        "flow": "Neutral",
+        "marketCap": "$1.35 B",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/LQDT"
+      },
+      {
+        "symbol": "MOGU",
+        "rating": "Bullish",
+        "entry": "Optimal",
+        "strength": "2",
+        "timing": "2",
+        "relative": "Weak",
+        "industryStrength": "Strong",
+        "trend": "Weak",
+        "flow": "Strong",
+        "marketCap": "$18.00 M",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/MOGU"
+      },
+      {
+        "symbol": "AMLX",
+        "rating": "Bullish",
+        "entry": "Optimal",
+        "strength": "3",
+        "timing": "1",
+        "relative": "Strong",
+        "industryStrength": "Strong",
+        "trend": "Neutral",
+        "flow": "Neutral",
+        "marketCap": "$3.13 B",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/AMLX"
+      },
+      {
+        "symbol": "DTSS",
+        "rating": "Very Bullish",
+        "entry": "Optimal",
+        "strength": "2",
+        "timing": "1",
+        "relative": "Weak",
+        "industryStrength": "Strong",
+        "trend": "Neutral",
+        "flow": "Weak",
+        "marketCap": "$10.00 M",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/DTSS"
+      },
+      {
+        "symbol": "NPWR",
+        "rating": "Bullish",
+        "entry": "Optimal",
+        "strength": "2",
+        "timing": "1",
+        "relative": "Weak",
+        "industryStrength": "Strong",
+        "trend": "Neutral",
+        "flow": "Weak",
+        "marketCap": "$277.00 M",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/NPWR"
+      },
+      {
+        "symbol": "SMX",
+        "rating": "Bullish",
+        "entry": "Optimal",
+        "strength": "2",
+        "timing": "1",
+        "relative": "Weak",
+        "industryStrength": "Strong",
+        "trend": "Neutral",
+        "flow": "Weak",
+        "marketCap": "$4.00 M",
+        "url": "https://members.chaikinanalytics.com/pgr/stock/SMX"
+      }
+    ]
+  }
+}
