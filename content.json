@@ -1,6 +1,152 @@
 [
   {
     "type": "Streams",
+    "title": "October 28 — SOXL Wheel & Market Context",
+    "date": "2026-10-28",
+    "label": "WEDNESDAY AFTER HOURS · REPLAY",
+    "description": "SOXL wheel–sandwich walkthrough, sector and asset-size comparisons, daily-chart confirmation, TQQQ allocation and DCA, plus gold, NUGT and copper discussion.",
+    "note": "67 min 30 sec · Caption-backed summary and notes · 7-slide PowerPoint + chart resources.",
+    "links": [
+      [
+        "Watch on Zoom",
+        "https://us06web.zoom.us/rec/share/TGgorCUaHCTxYFL0Cfrv7Qc223e6JTD0J60x2jAGeg7plHl1nCkaNU7iAV6KKwCj.SIVHwca7Ea_-bI42"
+      ],
+      [
+        "Summary & notes",
+        "streams/2026-10-28.html"
+      ],
+      [
+        "Slides (PowerPoint)",
+        "assets/2026-10-28/Market_Moves_Slides_2026-10-28.pptx"
+      ],
+      [
+        "Market-size tables (PDF)",
+        "assets/2026-10-28/Market_Sizes_Weekly_2026-10-28.pdf"
+      ],
+      [
+        "Charts & sources",
+        "streams/2026-10-28.html#resources"
+      ]
+    ],
+    "image": "",
+    "thumbnailTitle": "October 28\nSOXL Wheel & Market Context",
+    "tickers": [
+      {
+        "ticker": "SOXL",
+        "time": "17:43 / 30:32 / 1:03:54",
+        "status": "Reported wheel–sandwich example",
+        "price": "$135 short puts ×2, Nov. 20 expiry: $8.45 and $35 credits per share, one contract each. 200 shares bought at $85/$95 (average $90). One $120 covered call; $5.45 credit and Nov. 20 expiry from the accompanying slide example.",
+        "position": "Two puts remain open, representing a potential 200 additional shares—not 200 already owned. Total put credit $4,345; call credit $545. Exact two-put assignment basis is $113.275/share, not the early spoken $116–117 estimate. If both puts assign and the call expires, 400 shares have net cash cost $40,110 ($100.275/share) before fees/tax. This is scenario arithmetic, not a guaranteed exit or tax basis. Between $120 and $135 at expiry, both puts can assign while 100 shares are called away (300 remain); above $135, 100 remain. Premiums do not remove downside or early-assignment risk.",
+        "links": []
+      },
+      {
+        "ticker": "SOXL technical setup",
+        "time": "22:25 / 25:14 / 47:58",
+        "status": "Bullish setup / conditional scenarios",
+        "price": "On-stream quote corrected from a stale ~$107 display to ~$102.05. $80–85 possible pullback if the 200-day average rejects price.",
+        "position": "Max watched the 9-day moving average turn up toward the 200-day on the daily chart, distinguishing that from frequent five-minute crosses. Prior large rallies were historical analogies, not a forecast range or confirmed new breakout. The ~$125 put, ~50-day illustration and at-the-money ~$107 put were hypothetical examples, not additional reported fills; exact premiums/expiry were not established.",
+        "links": []
+      },
+      {
+        "ticker": "NDX / QQQ",
+        "time": "33:18 / 35:48",
+        "status": "Index thesis / strategy discussion",
+        "price": "Daily 200-day moving average was the key confirmation level; no new strike, premium or expiry established.",
+        "position": "Max favored waiting for a convincing daily-chart break before assuming a sustained new leg higher. He discussed call debit spreads and iron condors, and said his preferred successful NDX holding periods were roughly 3–30 days. No new NDX or QQQ position was reported.",
+        "links": []
+      },
+      {
+        "ticker": "TQQQ",
+        "time": "34:03 / 37:16 / 40:52",
+        "status": "Viewer CSP / wheel-management illustration",
+        "price": "Viewer Nov. 6 $72 put, $2.12 premium: calculated $69.88 breakeven before fees. $65 or below discussed as a possible additional-entry zone.",
+        "position": "This was an anonymous viewer position, not a new Max fill. Adding shares or puts was conditional on conviction, planned levels and available allocation. Selling calls on rebounds and buying them back on pullbacks was an illustration; it offers limited premium offset, not full downside protection.",
+        "links": []
+      },
+      {
+        "ticker": "Gold / NUGT",
+        "time": "50:28 / 52:28 / 55:12",
+        "status": "Metals outlook / rebuilding exposure",
+        "price": "Gold ~$4,000/oz key level; $3,800 a downside opinion, not a guaranteed floor. NUGT ~$125–130 discussed; roughly 12% at-the-money premium/collateral over ~30 days was an on-stream illustration.",
+        "position": "Max said he was rebuilding metals exposure but did not establish a new NUGT contract or exact holding. He discussed dollar sensitivity, oil/geopolitical pressure and miner premiums. Bank gold forecasts were quoted without recovered source links; they are not verified targets here. NUGT is leveraged and is not a guaranteed inverse-tech hedge.",
+        "links": []
+      },
+      {
+        "ticker": "Copper / COPX / silver",
+        "time": "14:01 / 56:52 / 59:53",
+        "status": "Prior COPX trade / demand thesis",
+        "price": "No new entry price, contract or target specified.",
+        "position": "Max described COPX as a good trade earlier in the year, not a new confirmed fill. He emphasized industrial-demand exposure and favored data-center/infrastructure demand as a copper thesis over a time-bound U.S. housing rebound. Commentary about monetary versus industrial uses is opinion; copper is principally an industrial commodity.",
+        "links": []
+      },
+      {
+        "ticker": "FCX",
+        "time": "1:01:35",
+        "status": "Viewer holding / question deferred",
+        "price": "No new entry price or contract established.",
+        "position": "An anonymous viewer asked about adding to Freeport-McMoRan shares and sandwich trading. Max said he needed to think about it and respond later; this was not an add recommendation.",
+        "links": []
+      },
+      {
+        "ticker": "ERX / USO",
+        "time": "54:09",
+        "status": "Energy context / retrospective watch",
+        "price": "ERX prior put discussions below $100 and around $100 were retrospective references, not new fills.",
+        "position": "Oil strength and commodity repricing were discussed while reviewing ERX and USO. No current contract terms or new executed trade were established.",
+        "links": []
+      },
+      {
+        "ticker": "GOOG / GOOGL",
+        "time": "02:31 / 21:25 / 49:35",
+        "status": "Earnings context",
+        "price": "No verified entry or exit level.",
+        "position": "Google earnings and broad-market weakness were mentioned. Max distinguished Alphabet from the semiconductor basket and had not yet deeply reviewed the report; no new trade was established.",
+        "links": []
+      },
+      {
+        "ticker": "NAIL",
+        "time": "1:00:57",
+        "status": "Viewer holding only",
+        "price": "No entry price, quantity or contract specified.",
+        "position": "An anonymous viewer said they were still holding shares while discussing housing. No new Max holding or recommendation was given.",
+        "links": []
+      },
+      {
+        "ticker": "Sectors / Bitcoin / oil / bonds",
+        "time": "06:27 / 09:28 / 15:48",
+        "status": "Performance and market-size context",
+        "price": "Tech about +$217B and communication services about −$384B in the prepared weekly estimates. These are revaluations, not measured fund flows.",
+        "position": "The slides compare performance and the scale of assets. Important methodology clarification: equity cap changes are fixed-share price revaluations; they do not measure dollars entering/leaving the market. Oil is gross notional reserve value, gold above-ground metal, silver historical-output value, and defense a 12-company proxy. These overlap or use different measures and cannot be added. Bonds were discussed but are not a new verified data series in the slide package. Russell weekly cap data remains unverified.",
+        "links": []
+      }
+    ],
+    "tickerNote": "Historical Oct. 28, 2026 recap from Zoom captions (01:27–1:07:30), reviewed Oct. 29. Prices are stream-time references, not live quotes; option premiums are per share (×100 per standard contract). Timestamps are replay positions. Spoken and hypothetical positions are distinguished; this is not a current holdings ledger or a frame-by-frame inventory. No shared strategy URLs were recovered from recording chat. Slides include a clearly updated SOXL premium calculation."
+  },
+  {
+    "type": "Decks",
+    "title": "October 28 — Slides & Chart Resources",
+    "date": "2026-10-28",
+    "label": "7 SLIDES · PERFORMANCE / MARKET SIZE / SOXL",
+    "description": "Two asset/sector performance charts, three market-size comparisons and two SOXL wheel–sandwich slides, updated with caption-confirmed premiums.",
+    "note": "Performance through Oct. 28 equity close; BTC performance through completed Oct. 27 UTC bar. Market-size methodology and limitations accompany the resources.",
+    "links": [
+      [
+        "Slides (PowerPoint)",
+        "assets/2026-10-28/Market_Moves_Slides_2026-10-28.pptx"
+      ],
+      [
+        "Market-size tables (PDF)",
+        "assets/2026-10-28/Market_Sizes_Weekly_2026-10-28.pdf"
+      ],
+      [
+        "Charts & sources",
+        "streams/2026-10-28.html#resources"
+      ]
+    ],
+    "image": "assets/2026-10-28/Sectors_Market_Size_Weekly.png"
+  },
+  {
+    "type": "Streams",
     "title": "October 16 — Market Moves",
     "date": "2026-10-16",
     "label": "FRIDAY STREAM · REPLAY",
