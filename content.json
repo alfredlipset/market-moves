@@ -1,6 +1,49 @@
 [
   {
     "type": "Streams",
+    "title": "October 30 — Market Moves",
+    "date": "2026-10-30",
+    "label": "FRIDAY STREAM · REPLAY",
+    "description": "October 30 replay with the prepared asset and sector charts, presentation deck, return data and earnings watchlist.",
+    "note": "72 min 46 sec · Chart data through October 29. Recording date and duration verified on Zoom.",
+    "links": [
+      [
+        "Watch on Zoom",
+        "https://us06web.zoom.us/rec/share/vB62OXIC7sn29NZjTACtyw3_N3CU9sdIaNkMmeq9kFNX3XZYFfZCfEpGf8DX7yD0.l42riKHr-Ip58ZO9"
+      ],
+      [
+        "Replay & resources",
+        "streams/2026-10-30.html"
+      ]
+    ],
+    "image": "",
+    "thumbnailTitle": "October 30\nMarket Moves"
+  },
+  {
+    "type": "Decks",
+    "title": "October 30 — Charts & Earnings Resources",
+    "date": "2026-10-30",
+    "label": "2 SLIDES · ASSETS / SECTORS / EARNINGS",
+    "description": "9 key assets and 11 sectors: YTD, October-to-date and September returns, plus the prepared October 30 and November 2–6 earnings watchlist.",
+    "note": "Prepared October 30 using October 29 completed closes; includes auditable return data.",
+    "links": [
+      [
+        "PowerPoint",
+        "assets/2026-10-30/Market_Moves_Performance_Charts_2026-10-30.pptx"
+      ],
+      [
+        "Charts & sources",
+        "streams/2026-10-30.html#resources"
+      ],
+      [
+        "Earnings watchlist",
+        "streams/2026-10-30.html#earnings"
+      ]
+    ],
+    "image": "assets/2026-10-30/market_moves_key_assets_ytd_mtd_september_2026-10-30.png"
+  },
+  {
+    "type": "Streams",
     "title": "October 28 — SOXL Wheel & Market Context",
     "date": "2026-10-28",
     "label": "WEDNESDAY AFTER HOURS · REPLAY",
